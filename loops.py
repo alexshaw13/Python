@@ -12,3 +12,6 @@ for number in range(-10, 10):
         
     elif number<0:
         print(number,value[2])
+
+
+        
