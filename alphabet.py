@@ -1,2 +1,1 @@
-for letter in "abcdefghijklmnopqrstuvwxyz":
-    print(ord(letter))
+print(*(chr(i) for i in range(97, 123)))
