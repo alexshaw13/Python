@@ -1,2 +1,6 @@
 for i in range (0,99):
-    print(f"{i} = 0 x {i}")
+    mtpy= f"{i} = {hex(i)}"
+    print(mtpy)
+
+
+
